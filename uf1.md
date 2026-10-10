@@ -48,3 +48,9 @@ Las tres fuerzas que han hecho de la digitalización un factor estratégico pued
 | 1. Avances tecnológicos | La evolución de la nube, la IA y la conectividad permite crear servicios más potentes, accesibles y automatizados. | Una empresa de software utiliza servicios de IA en la nube para analizar errores del código y sugerir correcciones. |
 | 2. Cambios en clientes y sociedad | Los clientes esperan servicios inmediatos, personalizados y disponibles desde cualquier dispositivo. | Una consultora IT ofrece a sus clientes un portal para consultar incidencias y seguir su resolución en tiempo real. |
 | 3. Competencia y nuevos modelos de negocio | La tecnología facilita nuevas formas de vender, trabajar y competir, por lo que las empresas necesitan adaptarse. | Una empresa de desarrollo pasa de vender programas instalables a ofrecerlos como SaaS mediante una suscripción mensual. |
+
+## EC1.6. Una empresa, dos momentos (r)
+
+¿Cuál representa una transformación digital y cuál solo una digitalización?
+
+El **Momento A** representa una empresa con procesos mayoritariamente manuales y poca presencia digital. El **Momento B** muestra una transformación digital porque no solo incorpora herramientas tecnológicas, sino que también cambia la forma de gestionar proyectos, captar clientes, promocionarse y tomar decisiones. El ERP y el CRM mejoran los procesos internos, mientras que LinkedIn, el blog y la analítica web transforman la estrategia comercial y la relación con el mercado. Por tanto, el cambio afecta a varias áreas del negocio y no únicamente a las tareas administrativas.
