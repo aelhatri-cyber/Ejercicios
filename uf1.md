@@ -22,3 +22,19 @@ Ejemplo del sector TIC: una empresa de desarrollo de software digitaliza sus con
 | 3 | Una pyme TIC empieza a usar correo electrónico en lugar de fax. |X|||
 | 4 | Un departamento de sistemas escanea todas las facturas en papel y las sube a un sistema de gestión documental. ||X||
 | 5 | Una app de gestión de proyectos añade recomendaciones personalizadas con IA para cada equipo. |||X|
+
+## EC1.4. Lectura de un caso: SoftDev SL (m)
+
+### 1. ¿Qué elementos corresponden a informatización y cuáles a digitalización?
+
+* **Informatización:** La empresa utiliza un ERP en la nube para gestionar presupuestos, facturas, proyectos y horas del personal, sustituyendo tareas manuales y herramientas aisladas.
+
+* **Digitalización:** La información de los proyectos y las facturas se gestiona de forma centralizada, y el portal permite consultar información y realizar gestiones en línea.
+
+### 2. ¿Hay rastro de transformación digital? Justifica la respuesta.
+
+Sí, hay indicios de transformación digital porque el portal de cliente amplía la relación con los clientes y permite ofrecer servicios de forma más accesible y autónoma. Sin embargo, para afirmar que existe una transformación digital completa, habría que comprobar si estos cambios forman parte de una estrategia que modifica el modelo de negocio, la organización o la propuesta de valor de SoftDev SL.
+
+### 3. ¿Por qué el portal es un buen ejemplo de digitalización de producto/servicio y no solo de proceso?
+
+Porque no se limita a mejorar el trabajo interno de la empresa, sino que ofrece al cliente un servicio digital nuevo o mejorado. Los clientes pueden consultar proyectos, descargar facturas y abrir solicitudes de soporte sin depender de comunicaciones manuales con el personal.
