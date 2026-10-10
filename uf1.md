@@ -38,3 +38,13 @@ Sí, hay indicios de transformación digital porque el portal de cliente amplía
 ### 3. ¿Por qué el portal es un buen ejemplo de digitalización de producto/servicio y no solo de proceso?
 
 Porque no se limita a mejorar el trabajo interno de la empresa, sino que ofrece al cliente un servicio digital nuevo o mejorado. Los clientes pueden consultar proyectos, descargar facturas y abrir solicitudes de soporte sin depender de comunicaciones manuales con el personal.
+
+## EC1.5. Por qué importa ahora (m)
+
+Las tres fuerzas que han hecho de la digitalización un factor estratégico pueden resumirse así:
+
+| Fuerza | Resumen (1 frase) | Ejemplo del sector TIC |
+|--------|-------------------|------------------------|
+| 1. Avances tecnológicos | La evolución de la nube, la IA y la conectividad permite crear servicios más potentes, accesibles y automatizados. | Una empresa de software utiliza servicios de IA en la nube para analizar errores del código y sugerir correcciones. |
+| 2. Cambios en clientes y sociedad | Los clientes esperan servicios inmediatos, personalizados y disponibles desde cualquier dispositivo. | Una consultora IT ofrece a sus clientes un portal para consultar incidencias y seguir su resolución en tiempo real. |
+| 3. Competencia y nuevos modelos de negocio | La tecnología facilita nuevas formas de vender, trabajar y competir, por lo que las empresas necesitan adaptarse. | Una empresa de desarrollo pasa de vender programas instalables a ofrecerlos como SaaS mediante una suscripción mensual. |
