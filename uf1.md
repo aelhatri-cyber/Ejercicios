@@ -1,4 +1,4 @@
-# T01 — Ejercicios de clase: soluciones
+# T01 — Ejercicios de clase
 ## EC1.1. Qué significa digitalizar (b)
 
 La digitalización consiste en utilizar tecnologías digitales para convertir información, procesos o servicios tradicionales en formatos digitales que faciliten su gestión y acceso.
