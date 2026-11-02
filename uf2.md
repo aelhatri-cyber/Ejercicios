@@ -11,3 +11,14 @@
 |  6  | Sistema MES que conecta el PLC con el ERP |||X|
 |  7  | Software de copias de seguridad de los servidores |X|||
 |  8  | Sistema de control de accesos de un edificio (tarjetas) |||X|
+
+## EC2.2 Departamentos IT de una empresa (b)
+
+| Área / Departamento | ¿Qué gestiona? | ¿Por qué es entorno IT? |
+| --- | --- | --- |
+| Sistemas y redes | Servidores, ordenadores, redes y conexiones. | Gestiona la infraestructura informática. |
+| Desarrollo de software | Aplicaciones, páginas web y programas. | Crea y mantiene sistemas de información. |
+| Ciberseguridad | Protección de datos, sistemas y usuarios. | Protege la información y los recursos digitales. |
+| Soporte técnico | Incidencias y asistencia a empleados y clientes. | Mantiene los servicios informáticos funcionando. |
+| Administración y finanzas | Facturas, nóminas, presupuestos y contabilidad. | Gestiona información económica mediante herramientas digitales. |
+| Marketing y ventas | Campañas, clientes y oportunidades comerciales. | Utiliza sistemas digitales para gestionar información comercial. |
