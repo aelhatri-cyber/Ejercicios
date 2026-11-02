@@ -88,3 +88,18 @@ Aumenta la superficie de ataque: un ciberdelincuente podría acceder a la red in
 | Atención al cliente | Mejor servicio y disponibilidad. | El soporte 24×7 permite atender incidencias durante todo el día. |
 | Información | Datos centralizados. | La integración de los sistemas facilita consultar información desde diferentes áreas. |
 | Competitividad | Mayor valor añadido. | DeltaCode pasa de vender horas de programación a ofrecer un servicio digital completo y continuo. |
+
+## EC2.7 Riesgos de conectar OT a Internet (r)
+
+**Caso: una planta de packaging conecta su SCADA directamente a Internet para permitir el mantenimiento remoto.**
+
+| # | Riesgo | Consecuencia | Medida de mitigación |
+| --- | --- | --- | --- |
+| 1 | Acceso no autorizado | Un atacante podría entrar en el sistema SCADA. | Utilizar VPN, autenticación multifactor y control de permisos. |
+| 2 | Malware o ransomware | Los equipos industriales podrían quedar bloqueados. | Instalar protección adecuada, segmentar redes y mantener copias de seguridad. |
+| 3 | Manipulación de sensores o controles | Se podrían modificar parámetros de producción y provocar errores. | Limitar los permisos de escritura y registrar todas las modificaciones. |
+| 4 | Interrupción de comunicaciones | La planta podría perder la supervisión remota. | Disponer de sistemas locales de control y procedimientos manuales de emergencia. |
+| 5 | Vulnerabilidades sin corregir | Un atacante podría aprovechar fallos del software. | Aplicar actualizaciones probadas y realizar auditorías de seguridad. |
+| 6 | Dependencia del proveedor externo | Una cuenta comprometida del proveedor podría facilitar el acceso a la planta. | Utilizar accesos temporales, cuentas individuales y supervisión de sesiones remotas. |
+
+**Conclusión:** Conectar sistemas OT a Internet aporta ventajas importantes, pero también introduce riesgos. La solución es aplicar medidas de ciberseguridad, separar las redes IT y OT y controlar cuidadosamente los accesos remotos.
