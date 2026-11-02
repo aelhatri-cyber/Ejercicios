@@ -75,3 +75,16 @@ La combinación de sensores IoT, conectividad a Internet, comunicaciones industr
 **5\. ¿Qué riesgo nuevo introduce esta conexión que antes no existía?**
 
 Aumenta la superficie de ataque: un ciberdelincuente podría acceder a la red industrial a través de la conexión remota, robar información o manipular los sistemas de control y provocar una parada de producción.
+
+## EC2.6 Ventajas de una digitalización de extremo a extremo (m)
+
+**Caso: DeltaCode**
+
+| Ámbito | Ventaja | Justificación (1-2 frases) |
+| --- | --- | --- |
+| Producción | Mayor control del inventario. | La integración con el MES permite conocer las existencias y las necesidades de producción. |
+| Negocio | Automatización de procesos. | El SaaS reduce tareas manuales y facilita la gestión de inventarios de las pymes. |
+| Mantenimiento | Detección temprana de problemas. | La monitorización permite identificar incidencias antes de que provoquen fallos importantes. |
+| Atención al cliente | Mejor servicio y disponibilidad. | El soporte 24×7 permite atender incidencias durante todo el día. |
+| Información | Datos centralizados. | La integración de los sistemas facilita consultar información desde diferentes áreas. |
+| Competitividad | Mayor valor añadido. | DeltaCode pasa de vender horas de programación a ofrecer un servicio digital completo y continuo. |
