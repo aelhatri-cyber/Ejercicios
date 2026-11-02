@@ -46,3 +46,32 @@
 | Diferencia 1 | Su prioridad suele ser proteger los datos y garantizar su disponibilidad. | Su prioridad es mantener la seguridad física y la continuidad de la producción. |
 | Diferencia 2 | Sus sistemas suelen actualizarse con relativa frecuencia. | Las actualizaciones deben probarse cuidadosamente para evitar detener máquinas. |
 | Diferencia 3 | Gestiona principalmente información empresarial. | Controla procesos físicos, sensores y maquinaria industrial. |
+
+## EC2.5 Convergencia IT-OT de una consultora IT (m)
+
+**Caso: BIT Consultores**
+
+**1\. ¿Cuál es el entorno IT de BIT Consultores? ¿Y cuál es el entorno OT que ahora entra en casa del cliente?**
+
+- **IT:** Los servidores, la plataforma en la nube, las redes, las aplicaciones y los sistemas informáticos de BIT Consultores.
+- **OT:** Los sensores IoT, los PLC, los sistemas SCADA y los equipos industriales que controlan los procesos físicos del cliente.
+
+**2\. ¿Qué sistema hace de puente entre los dos entornos?**
+
+La plataforma IoT en la nube, que recibe los datos de los sensores y permite transmitir información entre los equipos industriales y los técnicos de BIT.
+
+**3\. ¿Qué tecnología habilitadora permite que un técnico de BIT vea, en tiempo real, el estado de la línea de producción de un cliente a 500 km?**
+
+La combinación de sensores IoT, conectividad a Internet, comunicaciones industriales y computación en la nube.
+
+**4\. ¿Qué ventajas tiene para el cliente industrial?**
+
+- Detectar averías antes de que ocurran.
+- Reducir paradas inesperadas de producción.
+- Disminuir los costes de mantenimiento.
+- Supervisar las instalaciones a distancia.
+- Mejorar la eficiencia de los equipos.
+
+**5\. ¿Qué riesgo nuevo introduce esta conexión que antes no existía?**
+
+Aumenta la superficie de ataque: un ciberdelincuente podría acceder a la red industrial a través de la conexión remota, robar información o manipular los sistemas de control y provocar una parada de producción.
