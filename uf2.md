@@ -22,3 +22,16 @@
 | Soporte técnico | Incidencias y asistencia a empleados y clientes. | Mantiene los servicios informáticos funcionando. |
 | Administración y finanzas | Facturas, nóminas, presupuestos y contabilidad. | Gestiona información económica mediante herramientas digitales. |
 | Marketing y ventas | Campañas, clientes y oportunidades comerciales. | Utiliza sistemas digitales para gestionar información comercial. |
+
+## EC2.3 Tecnología de negocio vs. de planta (b)
+
+| Tecnología | Negocio | Planta |
+| --- | --- | --- |
+| ERP (SAP, Oracle, etc.) | X |  |
+| SCADA / HMI |  | X |
+| CRM (Salesforce, HubSpot) | X |  |
+| MES (Manufacturing Execution System) |  | X |
+| E-commerce (PrestaShop, Shopify) | X |  |
+| PLC / PAC |  | X |
+| BI / Data Warehouse | X |  |
+| Robots colaborativos (cobots) |  | X |
