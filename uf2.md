@@ -35,3 +35,14 @@
 | PLC / PAC |  | X |
 | BI / Data Warehouse | X |  |
 | Robots colaborativos (cobots) |  | X |
+
+## EC2.4 Qué hace que IT y OT se parezcan y se diferencien (m)
+
+| Aspecto | IT | OT |
+| --- | --- | --- |
+| Coincidencia 1 | Utiliza redes para comunicar dispositivos y sistemas. | Utiliza redes para comunicar máquinas y sistemas de control. |
+| Coincidencia 2 | Necesita medidas de ciberseguridad. | Necesita medidas de ciberseguridad. |
+| Coincidencia 3 | Recoge y procesa información para tomar decisiones. | Recoge y procesa datos de máquinas para controlar procesos. |
+| Diferencia 1 | Su prioridad suele ser proteger los datos y garantizar su disponibilidad. | Su prioridad es mantener la seguridad física y la continuidad de la producción. |
+| Diferencia 2 | Sus sistemas suelen actualizarse con relativa frecuencia. | Las actualizaciones deben probarse cuidadosamente para evitar detener máquinas. |
+| Diferencia 3 | Gestiona principalmente información empresarial. | Controla procesos físicos, sensores y maquinaria industrial. |
