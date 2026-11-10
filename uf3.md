@@ -30,3 +30,14 @@ Une cada situación con la THD correspondiente.
 | 7 | Un sistema de analítica de logs detecta patrones de ataque en millones de eventos por segundo. | Big Data |
 | 8 | Sensores en una planta envían datos de temperatura a una plataforma en la nube. | IoT |
 | 9 | Un asistente virtual resuelve dudas frecuentes de una app. | IA |
+
+## EC3.3 ¿Qué THD resuelve qué problema de negocio? (básico)
+
+| Problema de negocio | THD propuesta | Justificación |
+| --- | --- | --- |
+| Tenemos millones de logs pero no sacamos conclusiones operativas. | Big Data | Permite procesar grandes cantidades de registros, identificar patrones y obtener información útil para tomar decisiones. |
+| El soporte técnico pierde demasiadas horas en preguntas repetitivas. | IA | Un chatbot puede responder automáticamente las preguntas frecuentes y reducir la carga de trabajo del personal. |
+| Debemos garantizar que un certificado digital que emitimos no se falsifique. | Blockchain | Permite registrar certificados de forma segura, verificable y difícil de modificar o falsificar. |
+| Queremos ofrecer un producto sin invertir en CPD propio. | Cloud | Permite alojar aplicaciones y almacenar datos en servidores externos pagando por los recursos utilizados. |
+| Queremos analizar imágenes de productos para detectar defectos visuales. | IA | Mediante visión artificial puede analizar imágenes e identificar defectos automáticamente. |
+| Queremos simular entornos industriales para formar personal técnico. | AR/VR | Permite crear simulaciones virtuales e inmersivas para practicar sin riesgos ni necesidad de utilizar maquinaria real. |
