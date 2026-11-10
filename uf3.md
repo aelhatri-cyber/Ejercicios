@@ -92,3 +92,18 @@ Justificación:
 - AR/VR: sirve tanto para formación empresarial como para asistencia y mantenimiento industrial.
 
 Nota: algunas tecnologías pueden utilizarse en más de una zona dependiendo de la empresa.
+
+## EC3.7 Mejoras IT y OT gracias a las THD (reto)
+
+Una empresa de software de gestión de inventarios (IT) ofrece un módulo de estimación de demanda basado en IA y entrenado con datos del ERP (IT) y sensores de la planta (OT).
+
+| THD | Mejora IT | Mejora OT |
+| --- | --- | --- |
+| IA | Predice la demanda de productos y recomienda cuánto stock comprar. | Permite ajustar la producción según la demanda prevista y evitar fabricar unidades innecesarias. |
+| IoT | Proporciona información actualizada sobre el inventario disponible. | Los sensores controlan las máquinas, temperaturas y niveles de producción en tiempo real. |
+| Big Data | Analiza históricos de ventas, pedidos y clientes para mejorar las previsiones. | Analiza datos de máquinas y procesos para detectar problemas y optimizar la producción. |
+| Cloud | Permite consultar el ERP y el inventario desde diferentes ubicaciones. | Permite supervisar datos de producción y conectar las instalaciones industriales con los sistemas empresariales. |
+| Ciberseguridad | Protege los datos de clientes, proveedores y pedidos del ERP. | Protege las máquinas conectadas y los sistemas de control industrial frente a ciberataques. |
+| Blockchain | Permite garantizar la autenticidad de facturas, pedidos y documentos comerciales. | Mejora la trazabilidad de materias primas y productos durante la fabricación. |
+
+Conclusión: La integración de IT y OT permite que la empresa conecte la información administrativa con los datos reales de producción. Así puede anticipar la demanda, reducir costes, evitar roturas de stock y mejorar la eficiencia industrial.
