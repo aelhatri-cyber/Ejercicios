@@ -107,3 +107,50 @@ Una empresa de software de gestión de inventarios (IT) ofrece un módulo de est
 | Blockchain | Permite garantizar la autenticidad de facturas, pedidos y documentos comerciales. | Mejora la trazabilidad de materias primas y productos durante la fabricación. |
 
 Conclusión: La integración de IT y OT permite que la empresa conecte la información administrativa con los datos reales de producción. Así puede anticipar la demanda, reducir costes, evitar roturas de stock y mejorar la eficiencia industrial.
+
+## EC3.8 Plan de futuro: ¿qué THD priorizo? (reto)
+
+Situación: Vamos a crear una consultora IT de 8 personas, con un presupuesto limitado y un plazo de especialización de dos años.
+
+### 1. ¿Qué tres THD elijo?
+
+- Inteligencia Artificial (IA).
+- Cloud Computing.
+- Ciberseguridad.
+
+### 2. ¿Por qué elijo estas tres THD?
+
+1. Inteligencia Artificial (IA)
+
+- Tiene una gran demanda en empresas de diferentes sectores.
+- Permite automatizar tareas y mejorar la toma de decisiones.
+- Podemos desarrollar chatbots, asistentes virtuales y sistemas de predicción.
+- Nos permite ofrecer servicios innovadores a nuestros clientes.
+
+2. Cloud Computing
+
+- No necesitamos invertir en servidores ni centros de procesamiento de datos propios.
+- Permite desarrollar y alojar aplicaciones de forma flexible.
+- Facilita el trabajo remoto y la escalabilidad de los servicios.
+- Podemos ofrecer servicios de migración y mantenimiento de infraestructuras en la nube.
+
+3. Ciberseguridad
+
+- Todas las empresas necesitan proteger sus datos y sistemas.
+- Los ciberataques son cada vez más frecuentes.
+- Podemos ofrecer auditorías, análisis de vulnerabilidades y planes de protección.
+- Es un servicio que puede generar ingresos recurrentes mediante mantenimiento y supervisión.
+
+### 3. ¿Qué nuevo producto o servicio ofreceríamos?
+
+#### SecureCloud AI
+
+Propuesta de productoPlataforma inteligente de gestión y protección empresarial en la nube.
+
+Ofreceríamos una plataforma que combine las tres tecnologías:
+
+- Cloud: alojaría los datos y aplicaciones de nuestros clientes.
+- IA: analizaría los datos y detectaría comportamientos sospechosos.
+- Ciberseguridad: identificaría posibles amenazas y ayudaría a prevenir ataques.
+
+Ejemplo práctico: una pequeña empresa contrata nuestro servicio para almacenar sus documentos en la nube. La IA detecta accesos extraños y el sistema de ciberseguridad genera alertas para evitar posibles robos de información.
