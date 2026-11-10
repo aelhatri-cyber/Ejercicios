@@ -41,3 +41,13 @@ Une cada situación con la THD correspondiente.
 | Queremos ofrecer un producto sin invertir en CPD propio. | Cloud | Permite alojar aplicaciones y almacenar datos en servidores externos pagando por los recursos utilizados. |
 | Queremos analizar imágenes de productos para detectar defectos visuales. | IA | Mediante visión artificial puede analizar imágenes e identificar defectos automáticamente. |
 | Queremos simular entornos industriales para formar personal técnico. | AR/VR | Permite crear simulaciones virtuales e inmersivas para practicar sin riesgos ni necesidad de utilizar maquinaria real. |
+
+## EC3.4 THD y sostenibilidad (medio)
+
+Elige tres THD y explica cómo contribuyen a la sostenibilidad en una empresa TIC.
+
+| THD | Cómo contribuye a la sostenibilidad | Ejemplo concreto en una empresa TIC |
+| --- | --- | --- |
+| IoT | Reduce el consumo energético mediante sensores que controlan los recursos en tiempo real. | Una empresa instala sensores en sus oficinas para apagar automáticamente la iluminación y el aire acondicionado cuando no hay personas. |
+| Cloud | Permite utilizar centros de datos optimizados y compartir recursos informáticos, evitando mantener servidores propios infrautilizados. | Una empresa migra sus aplicaciones a la nube y elimina servidores antiguos que consumían electricidad continuamente. |
+| Big Data | Permite analizar datos para detectar desperdicios, mejorar procesos y reducir el consumo de recursos. | Una empresa analiza los datos de consumo eléctrico de sus equipos para identificar los ordenadores y servidores que gastan demasiada energía. |
