@@ -62,3 +62,33 @@ Identifica dos nuevos mercados o perfiles profesionales que han aparecido gracia
 | Ingeniero de Inteligencia Artificial y Machine Learning | IA y Big Data. | Empresas como Multiverse Computing, Sherpa.ai y NVIDIA (con presencia en el mercado español) desarrollan o aplican soluciones de inteligencia artificial. |
 
 Explicación: Hace diez años estos perfiles ya existían en algunos entornos, pero tenían mucha menos presencia. La expansión de la inteligencia artificial, los datos masivos y los ciberataques ha creado una demanda profesional mucho mayor.
+
+## EC3.6 Parte de negocio vs. parte de planta (medio)
+
+Marca dónde puede tener impacto cada THD.
+
+| THD | Negocio | Planta | Ambas |
+| --- | --- | --- | --- |
+| IoT |  |  | X |
+| Big Data |  |  | X |
+| IA |  |  | X |
+| Cloud | X |  |  |
+| Ciberseguridad |  |  | X |
+| Blockchain | X |  |  |
+| RPA | X |  |  |
+| Fabricación aditiva |  | X |  |
+| AR/VR |  |  | X |
+
+Justificación:
+
+- IoT: conecta sensores de producción y dispositivos de negocio.
+- Big Data: analiza datos comerciales y datos de producción.
+- IA: permite automatizar decisiones administrativas y controlar procesos industriales.
+- Cloud: facilita principalmente la gestión empresarial y el almacenamiento de información.
+- Ciberseguridad: protege tanto los sistemas informáticos de oficina como los sistemas industriales.
+- Blockchain: puede utilizarse para contratos, facturas y trazabilidad de productos.
+- RPA: automatiza tareas administrativas y comerciales.
+- Fabricación aditiva: se utiliza principalmente en la producción de piezas y prototipos.
+- AR/VR: sirve tanto para formación empresarial como para asistencia y mantenimiento industrial.
+
+Nota: algunas tecnologías pueden utilizarse en más de una zona dependiendo de la empresa.
