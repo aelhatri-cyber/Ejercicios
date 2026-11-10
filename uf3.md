@@ -51,3 +51,14 @@ Elige tres THD y explica cómo contribuyen a la sostenibilidad en una empresa TI
 | IoT | Reduce el consumo energético mediante sensores que controlan los recursos en tiempo real. | Una empresa instala sensores en sus oficinas para apagar automáticamente la iluminación y el aire acondicionado cuando no hay personas. |
 | Cloud | Permite utilizar centros de datos optimizados y compartir recursos informáticos, evitando mantener servidores propios infrautilizados. | Una empresa migra sus aplicaciones a la nube y elimina servidores antiguos que consumían electricidad continuamente. |
 | Big Data | Permite analizar datos para detectar desperdicios, mejorar procesos y reducir el consumo de recursos. | Una empresa analiza los datos de consumo eléctrico de sus equipos para identificar los ordenadores y servidores que gastan demasiada energía. |
+
+## EC3.5 Nuevos mercados generados por las THD (medio)
+
+Identifica dos nuevos mercados o perfiles profesionales que han aparecido gracias a las THD.
+
+| Nombre del mercado / perfil | THD que lo ha hecho posible | Ejemplo de actores del mercado TIC catalán / español |
+| --- | --- | --- |
+| Especialista en ciberseguridad | Ciberseguridad e IA. | Empresas como S2 Grupo, Tarlogic y Ackcent ofrecen servicios de protección, auditoría y detección de amenazas informáticas. |
+| Ingeniero de Inteligencia Artificial y Machine Learning | IA y Big Data. | Empresas como Multiverse Computing, Sherpa.ai y NVIDIA (con presencia en el mercado español) desarrollan o aplican soluciones de inteligencia artificial. |
+
+Explicación: Hace diez años estos perfiles ya existían en algunos entornos, pero tenían mucha menos presencia. La expansión de la inteligencia artificial, los datos masivos y los ciberataques ha creado una demanda profesional mucho mayor.
